@@ -77,7 +77,7 @@ const deleteContact = asyncHandler(async (req, res) => {
     res.status(403);
     throw new Error("User don't have permission to update other user contacts");
   }
-  await Contact.deleteOne({ _id: req.params.id });
+  await Contact.findByIdAndRemove(req.params.id);
   res.status(200).json(contact);
 });
 
