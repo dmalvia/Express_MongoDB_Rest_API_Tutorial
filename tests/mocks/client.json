@@ -1,0 +1,29 @@
+[
+    {
+        "name" : "Bruce Wayne",
+        "email" :  "BruceWayne@gmail.com",
+        "fax" : "1234567890",
+        "phone" : "9876543210"
+
+    },
+    {
+        "name" : "Clark Kent",
+        "email" :  "ClarkKent@gmail.com",
+        "fax" : "1234567890",
+        "phone" : "9876543210"
+
+    },    {
+        "name" : "Peter Parker",
+        "email" :  "PeterParker@gmail.com",
+        "fax" : "1234567890",
+        "phone" : "9876543210"
+
+    },    {
+        "name" : "Tony Stark",
+        "email" :  "TonyStark@gmail.com",
+        "fax" : "1234567890",
+        "phone" : "9876543210"
+
+    }
+
+]

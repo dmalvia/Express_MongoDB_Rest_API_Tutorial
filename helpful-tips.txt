@@ -1,0 +1,8 @@
+https://www.mongodb.com/developer/products/atlas/mongodb-express-prisma-validation/
+https://dev.to/ghostaram/how-to-create-mongoose-models-using-typescript-7hf
+
+localhost:3000/docs/
+
+ts-node swagger.ts   
+https://swagger-autogen.github.io/docs/swagger-2/schemas-and-definitions
+https://blog.stackademic.com/how-to-create-api-documentation-fast-swagger-with-typescript-a5926acbed30

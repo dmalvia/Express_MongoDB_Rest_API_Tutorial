@@ -1,0 +1,9 @@
+{
+    "username" : "JohnDoe1",
+    "email" :  "johndoe@gmail.com",
+    "password" : "Test12345@",
+    "confirm" : true,
+    "token" : "",
+    "old_password":"",
+    "new_password": "Test12345@"
+}
